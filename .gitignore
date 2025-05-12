@@ -1,0 +1,10 @@
+# Ignore VS Code, Visual Studio, system files
+.vs/
+*.vsidx
+*.user
+*.suo
+*.tmp
+*.log
+.DS_Store
+node_modules/
+dist/
